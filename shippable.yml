@@ -38,3 +38,6 @@ after_script:
   
 notifications:
   email: false
+  
+cache: true
+
